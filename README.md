@@ -1,3 +1,3 @@
-# Lập trình web frontend với JavaScript
+# Web frontend với JavaScript
 
 Khoá học của Gà Lại Lập Trình
